@@ -1,0 +1,41 @@
+
+.center-text {
+	text-align: center;
+}
+
+h1 {
+  font-family: 'Petit Formal Script', cursive;
+  font-size: 90px;
+  line-height: 100px;
+}
+
+h3 {
+  font-family: 'Rufina', serif;
+  font-size: 40px;
+}
+
+
+
+.img-responsive {
+  border-radius: 50%;
+	display: block;
+	margin: auto;
+	width: 40%
+	padding: 20px;
+}
+
+ul li {
+	font-family: 'Oxygen', sans-serif;
+  font-weight: 400;
+	margin: 15 0;
+}
+
+.footer {
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
